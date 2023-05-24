@@ -1,0 +1,57 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css" />
+    <title>KK2</title>
+  </head>
+  <main id="main">
+    <header id="title">
+        KK的第二个认证项目
+    </header>
+    <body>
+      <div id="img-div">
+        <img id="image" src="https://images4.alphacoders.com/616/thumbbig-616945.webp">
+        <div id="img-caption">海贼王-阳光梅利号</div>
+        <p id="tribute-info">
+          阳光梅利号
+        </p>
+      </div>
+    </body>
+    <div class="answer"><a id="tribute-link" href="https://www.baidu.com/s" target="_blank">度娘解释</a>
+    </div>
+    <footer></footer>
+  </main>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+header{
+  text-align: center;
+  font-size: 20px;
+}
+img{
+  width: 60%;
+  display: block;  
+  margin-left: auto;
+  margin-right: auto; 
+}
+#img-caption, #tribute-info{
+  font-size: 10px;
+  text-align: center;
+}
+.answer{
+    text-align: center;
+    font-size: 3px;
+}
+#image{
+  max-width: 100%;
+  height: auto;
+}
+
+** end of undefined **
+

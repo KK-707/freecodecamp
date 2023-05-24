@@ -1,0 +1,53 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"></meta>
+    <meta name="viewport" content=""></meta>
+    <link rel="stylesheet" href="./styles.css"></link>
+    <title>个人作品集展示页</title>
+  </head>
+  <body>
+    <nav id="navbar"><a href="#K1">导航栏</a></nav>
+    <!--以下内容仅仅完成基本需求-->
+    <span>以下内容仅仅完成基本需求</span>
+    <div id="welcome-section">
+      <h1>欢迎(占据整个视窗高度)</h1>
+    </div>
+    <div id="projects">
+      <div class="project-tile"></div>
+      <a href="">项目链接</a>
+    </div>
+    <a id="profile-link" href="GitHub" target="_blank">个人主页</a>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+@media only screen and (max-width: 500px) {
+    body {
+      background-color: lightblue;
+    }
+}
+#welcome-section{
+  height: 100vh;
+}
+#navbar{
+  display: flex;
+  position: fixed;
+}
+span{
+  display: inline-block;
+  border: 10px solid red;
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 100px;
+}
+
+** end of undefined **
+
