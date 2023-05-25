@@ -1,4 +1,4 @@
-** start of undefined **
+<!-- ** start of undefined ** -->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -69,10 +69,10 @@
   </body>
 </html>
 
-** end of undefined **
+<!-- ** end of undefined ** -->
 
-** start of undefined **
-
+<!-- ** start of undefined ** -->
+<style>
 body{
   margin: auto;
   width: 500px;
@@ -111,6 +111,6 @@ input[type="submit"]{
   height: 30px;
   background-color: rgb(0,255,0);
 }
-
-** end of undefined **
+</style>
+<!-- ** end of undefined ** -->
 

@@ -1,4 +1,4 @@
-** start of undefined **
+<!-- ** start of undefined ** -->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -23,10 +23,10 @@
   </body>
 </html>
 
-** end of undefined **
+<!-- ** end of undefined ** -->
 
-** start of undefined **
-
+<!-- ** start of undefined ** -->
+<style>
 @media only screen and (max-width: 500px) {
     body {
       background-color: lightblue;
@@ -48,6 +48,6 @@ span{
   text-align: center;
   line-height: 100px;
 }
-
-** end of undefined **
+</style>
+<!-- ** end of undefined ** -->
 

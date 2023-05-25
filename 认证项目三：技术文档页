@@ -1,85 +1,83 @@
-** start of undefined **
+<!-- ** start of undefined ** -->
 
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="styles.css" />
     <title>技术文档</title>
   </head>
   <main id="main-doc">
     <body>
       <!--导航栏-->
       <nav id="navbar">
-        <header>
-          技术文档导航页
-        </header>
+        <header>技术文档导航页</header>
         <a class="nav-link" href="#K1">K1</a>
         <a class="nav-link" href="#K2">K2</a>
         <a class="nav-link" href="#K3">K3</a>
         <a class="nav-link" href="#K4">K4</a>
         <a class="nav-link" href="#K5">K5</a>
       </nav>
-        <div class="test">导航页测试</div>
-        <section class="main-section" id="K1">
-          <header>K1</header>
-        </section>
-        <section class="main-section" id="K2">
-          <header>K2</header>
-        </section>
-        <section class="main-section" id="K3">
-          <header>K3</header>
-        </section>
-        <section class="main-section" id="K4">
-          <header>K4</header>
-        </section>
-        <section class="main-section" id="K5">
-          <header>K5</header>
-          <p></p>
-          <p></p>
-          <code></code>
-          <li></li>
-          <p></p>
-          <p></p>
-          <code></code>
-          <li></li>
-          <p></p>
-          <p></p>
-          <code></code>
-          <li></li>
-          <p></p>
-          <p></p>
-          <code></code>
-          <li></li>
-          <p></p>
-          <p></p>
-          <code></code>
-          <li></li>
-        </section>
-      <footer></footer> 
+      <div class="test">导航页测试</div>
+      <section class="main-section" id="K1">
+        <header>K1</header>
+      </section>
+      <section class="main-section" id="K2">
+        <header>K2</header>
+      </section>
+      <section class="main-section" id="K3">
+        <header>K3</header>
+      </section>
+      <section class="main-section" id="K4">
+        <header>K4</header>
+      </section>
+      <section class="main-section" id="K5">
+        <header>K5</header>
+        <p></p>
+        <p></p>
+        <code></code>
+        <li></li>
+        <p></p>
+        <p></p>
+        <code></code>
+        <li></li>
+        <p></p>
+        <p></p>
+        <code></code>
+        <li></li>
+        <p></p>
+        <p></p>
+        <code></code>
+        <li></li>
+        <p></p>
+        <p></p>
+        <code></code>
+        <li></li>
+      </section>
+      <footer></footer>
     </body>
   </main>
 </html>
 
-** end of undefined **
+<!-- ** end of undefined ** -->
 
-** start of undefined **
+<!-- ** start of undefined ** -->
 
-.test{
-  width: 80%;
-  height: 500px;
-  background-color: red;
-  margin: 0 auto;
-  text-align: center;
-  line-height: 500px;
-  border: 3px solid #000
-}
-@media scree and(min-width: 300px){
-   footer{
-     background-color: blue;
-   }
-}
+<style>
+  .test {
+    width: 80%;
+    height: 500px;
+    background-color: red;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 500px;
+    border: 3px solid #000;
+  }
+  @media scree and(min-width: 300px) {
+    footer {
+      background-color: blue;
+    }
+  }
+</style>
 
-
-** end of undefined **
-
+<!-- ** end of undefined ** -->

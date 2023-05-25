@@ -1,4 +1,4 @@
-** start of undefined **
+<!-- ** start of undefined ** -->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -48,10 +48,11 @@
   </body>
 </html>
 
-** end of undefined **
+<!-- ** end of undefined ** -->
 
-** start of undefined **
+<!-- ** start of undefined ** -->
 
+<style>
 #header-img{
   width: 20%;
   height: 6%;
@@ -76,7 +77,7 @@ footer{
   margin-bottom: 0;
   justify-content: center;
 }
+</style>
 
-
-** end of undefined **
+<!-- ** end of undefined ** -->
 
